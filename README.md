@@ -10,7 +10,7 @@ Not useful for production environments
 ```php
 $config = new LocalStorage();
 
-$config->set('bar, 'pippo');
+$config->set('bar', 'pippo');
 
 $foo = $config->get('bar');
 
