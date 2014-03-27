@@ -1,0 +1,7 @@
+{
+    "name": "kajyr/localstorage",
+    "description": "A simple PHP class to store key/value information on a text file",
+    "require": {
+        "php": ">=5.3.0"
+    }
+}
